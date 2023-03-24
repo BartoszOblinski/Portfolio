@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+body {
+  background-color: #303030;
+  color: white;
+  font-family: "lato", sans-serif;
+  font-size: 20px;
+}
+
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rectangle {
+  width: 960px;
+  margin: 20px;
+}
+
+.square {
+  width: 50%;
+  float: left;
+}
